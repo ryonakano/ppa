@@ -9,10 +9,10 @@ Breaks: debian-security-support (<< 2019.04.25), initscripts (<< 2.88dsf-13.3), 
 Replaces: base, dpkg (<= 1.15.0), miscutils
 Provides: base
 Filename: ./base-files_12.3_amd64.deb
-Size: 70424
-MD5sum: e08245c0b897a9465609c7a7a8a393bd
-SHA1: 801bd7a3e6239e118f7dc99e8262564b9f413c06
-SHA256: 1499f02324d094bf6af29a0402b20b28e72c45f53c2d91b910670af1760dd5fd
+Size: 70452
+MD5sum: e26b2dc505aada44412f0b949c28e9df
+SHA1: dbdd813931c356ec91f2b9e5bc7c641e5c1001ef
+SHA256: b8cf5cfdfe2d4f2c71a705012124356650dd8e2870e74f8a6604fe6a6362f109
 Section: admin
 Priority: required
 Multi-Arch: foreign
